@@ -1,0 +1,17 @@
+{
+  "name": "pi802.11",
+  "version": "2.3.1",
+  "description": "Wireless LAN driver for Raspberry Pi based on the 802.11x protocol",
+  "main": "pi802-11Class.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"run testMe.js for quick usage test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuckerGauge/pi802.11.git"
+  },
+  "author": "John Rucker",
+  "license": "ISC"
+}
